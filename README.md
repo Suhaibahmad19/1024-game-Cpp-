@@ -1,3 +1,4 @@
+note : create "1024_instruction.txt" and "menu.txt" file by yourself
 
 1024
 You will implement a single player game “1024” in C++. 
